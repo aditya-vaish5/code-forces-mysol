@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\TDM-GCC-64\\bin",
+                "C:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\bits",
+                "C:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32\\bits"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\TDM-GCC-64\\bin\\c++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
